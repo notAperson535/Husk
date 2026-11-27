@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="src/app/Husk/Assets.xcassets/AppIcon.appiconset/Icon-Default.png" width="120" height="120" alt="Husk">
 </p>
 
